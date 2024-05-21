@@ -1,8 +1,4 @@
-# Olá, professor 👋.
-
-## ByteBiteBurgers
-https://github.com/postech-g38/ByteBiteBurgers
-****
+# Olá, professor 👋
 
 ## Entrega da fase 04 ⬇️
 <details> 
@@ -10,7 +6,7 @@ https://github.com/postech-g38/ByteBiteBurgers
 
   ➡️ Fase 04: 
   
-  [![Assista ao Vídeo no YouTube](https://img.shields.io/badge/Assista%20ao%20V%C3%ADdeo-no%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?xxxxxxxxx)
+  [![Assista ao Vídeo no YouTube](https://img.shields.io/badge/Assista%20ao%20V%C3%ADdeo-no%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=mldtRj6B6lc)
 
   📃 Informações de cobertura dos microsserviços:
 
@@ -45,13 +41,16 @@ https://github.com/postech-g38/ByteBiteBurgers
 </details>
 
 </details>
-
+  
 ## Entrega da fase 03 ⬇️
 
 <details> 
   <summary>Abrir</summary>
 
+  ➡️ Fase 03: 
+  
 [![Assista ao Vídeo no YouTube](https://img.shields.io/badge/Assista%20ao%20V%C3%ADdeo-no%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=FEfz40NYuA0)
+
 
 <details>
   <summary>Repositórios</summary>
@@ -81,9 +80,8 @@ https://github.com/postech-g38/terraform-rds
   <summary>Estrutura do banco de dados</summary>
   
 ![Desenho do banco](https://github.com/postech-g38/ByteBiteBurgers/assets/51934321/d63154d1-3686-4f56-a778-4ed6454cdb23)
- 
-</details>
 
+</details>
 </details>
 
 ## Entrega da fase 02 ⬇️
@@ -95,11 +93,16 @@ https://github.com/postech-g38/terraform-rds
 
 [![Assista ao Vídeo no YouTube](https://img.shields.io/badge/Assista%20ao%20V%C3%ADdeo-no%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=tMUzzM8YnzE)
 
+
+
+
 <details>
   <summary>Desenho de Arquitetura</summary>
 
   ![Desenho de Arquitetura](https://github.com/postech-g38/ByteBiteBurgers/assets/51934321/b8f3c32e-80b5-46f4-99fc-3abaf3e256cd)
 
+
+  
 </details>
 
 <details>
