@@ -12,7 +12,8 @@ class UsuarioPayload(BaseModel):
     cpf: Optional[str]
     email: str
     tipo: UsuarioTipo = UsuarioTipo.CLIENTE.value
-
+    endereco: str
+    telefone: str
 
 class ResponseUsuarioPayload(UsuarioPayload):
     id: str
