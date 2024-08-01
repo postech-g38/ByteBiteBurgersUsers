@@ -31,8 +31,5 @@ services:
     ports:
       - "27017:27017"
     volumes: 
-      - ./database_data:/data/db
+      - ./.target/database:/data/db
       - ./seeds/seed.js:/docker-entrypoint-initdb.d/seed.js
-
-volumes:
-  mymongodata:
